@@ -11,7 +11,7 @@
 
 - 🤝 I’m currently co-authoring [@Kadreev](https://github.com/Kadreev)
 
-- 👨‍💻 Get to know me better [https://kikots.me/](https://kikots.me/)
+- 👨‍💻 Get to know me better [https://kiriltsanov.com/](https://kiriltsanov.com/)
 
 - 📫 Reach me on **kiriltsanov12@gmail.com**
 
